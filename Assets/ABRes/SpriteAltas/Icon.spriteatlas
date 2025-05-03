@@ -7,6 +7,7 @@ SpriteAtlas:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Icon
+  serializedVersion: 2
   m_EditorData:
     serializedVersion: 2
     textureSettings:
@@ -28,30 +29,35 @@ SpriteAtlas:
       allowAlphaSplitting: 0
       enableRotation: 0
       enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
-    - {fileID: 2800000, guid: 2e620d6ef8a94014ab0e5223c760f001, type: 3}
-    - {fileID: 2800000, guid: 4c4f811f4729d0f4f9a45580f8e5039d, type: 3}
-    - {fileID: 2800000, guid: 1309611d7bf4ccf4a94a2f3f802a8e54, type: 3}
-    - {fileID: 2800000, guid: 9da4e2b466c6e0645977d7f53d28068f, type: 3}
-    - {fileID: 2800000, guid: a5140d3a7dcd2f946b162a78f9e6d476, type: 3}
-    - {fileID: 2800000, guid: bd255eda1961c5649b79535cfcee40a0, type: 3}
-    totalSpriteSurfaceArea: 40344
+    - {fileID: 2800000, guid: 464b259067cac7745b390d3fc60cfa0b, type: 3}
+    - {fileID: 2800000, guid: 9608859a68900e54ea38877c29fa632e, type: 3}
+    - {fileID: 2800000, guid: 49dcd6c03dfe5004da0611b0971a4844, type: 3}
+    - {fileID: 2800000, guid: ab7fbcaba43f4474eb387737a01f507e, type: 3}
+    - {fileID: 2800000, guid: 480ed5fa68cb6ef479a0bec525bc0df7, type: 3}
+    - {fileID: 2800000, guid: b5879f058726e1047b15c33c82145e99, type: 3}
     bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
-  - {fileID: 21300000, guid: 9da4e2b466c6e0645977d7f53d28068f, type: 3}
-  - {fileID: 21300000, guid: a5140d3a7dcd2f946b162a78f9e6d476, type: 3}
-  - {fileID: 21300000, guid: bd255eda1961c5649b79535cfcee40a0, type: 3}
-  - {fileID: 21300000, guid: 1309611d7bf4ccf4a94a2f3f802a8e54, type: 3}
-  - {fileID: 21300000, guid: 2e620d6ef8a94014ab0e5223c760f001, type: 3}
-  - {fileID: 21300000, guid: 4c4f811f4729d0f4f9a45580f8e5039d, type: 3}
+  - {fileID: 21300000, guid: 464b259067cac7745b390d3fc60cfa0b, type: 3}
+  - {fileID: 21300000, guid: 49dcd6c03dfe5004da0611b0971a4844, type: 3}
+  - {fileID: 21300000, guid: b5879f058726e1047b15c33c82145e99, type: 3}
+  - {fileID: 21300000, guid: 9608859a68900e54ea38877c29fa632e, type: 3}
+  - {fileID: 21300000, guid: 480ed5fa68cb6ef479a0bec525bc0df7, type: 3}
+  - {fileID: 21300000, guid: ab7fbcaba43f4474eb387737a01f507e, type: 3}
   m_PackedSpriteNamesToIndex:
-  - 3
-  - 5
-  - 6
-  - 4
   - 2
+  - 4
+  - 6
   - 1
+  - 5
+  - 3
+  m_RenderDataMap: {}
   m_Tag: Icon
   m_IsVariant: 0
+  m_IsPlaceholder: 0

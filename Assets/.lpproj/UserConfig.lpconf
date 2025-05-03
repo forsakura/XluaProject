@@ -1,0 +1,156 @@
+<GlobalConfig CodeFontSize = "13"/>
+<BreakpointList/>
+<WatchList/>
+<ProjectUI>
+  <TreeState BaseX = "0" BaseY = "0" AlternativeItem = "LuaFolders#Assets#Lua#InitClass.lua">
+    <SelectedList>
+      <Selected Path = "LuaFolders#Assets#Lua#BasePanel.lua"/>
+    </SelectedList>
+    <ExpandedList>
+      <Expanded Path = "LuaFolders"/>
+      <Expanded Path = "LuaFolders#Assets"/>
+      <Expanded Path = "LuaFolders#Assets#Lua"/>
+    </ExpandedList>
+  </TreeState>
+</ProjectUI>
+<FindAnReplaceUI
+  Pattern = ""
+  MatchCase = "false"
+  MatchWholeWord = "false"
+  UseRegEx = "false"
+  Target = ""
+  Replace = ""/>
+<MainWindow
+  X = "88"
+  Y = "128"
+  Width = "1167"
+  Height = "672"
+  Maximized = "false"
+  LastCodeFilename = "D:/Unity program/XluaProject/Assets/Lua/InitClass.lua">
+  <DockingControl>
+    <DockingNode DockingDirection = "Horizontal">
+      <DockingNode DockingDirection = "None">
+        <DockingBlock Width = "234" Height = "555" DocumentStyle = "false">
+          <DockingCard
+            Text = "Project"
+            Tag = ""
+            ActivePage = "true"
+            ActivateTime = "0"/>
+          <DockingCard
+            Text = "Outline"
+            Tag = ""
+            ActivePage = "false"
+            ActivateTime = "0"/>
+        </DockingBlock>
+      </DockingNode>
+      <DockingNode DockingDirection = "Vertical">
+        <DockingNode DockingDirection = "None">
+          <DockingBlock Width = "914" Height = "415" DocumentStyle = "true">
+            <DockingCard
+              Text = "BasePanel.lua"
+              Tag = "D:/Unity program/XluaProject/Assets/Lua/BasePanel.lua"
+              ActivePage = "false"
+              ActivateTime = "50157383"
+              CaretLineIndex = "15"
+              CaretCodeCharIndex = "22"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "BagPanel.lua"
+              Tag = "D:/Unity program/XluaProject/Assets/Lua/BagPanel.lua"
+              ActivePage = "false"
+              ActivateTime = "50040097"
+              CaretLineIndex = "83"
+              CaretCodeCharIndex = "25"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "Main.lua"
+              Tag = "D:/Unity program/XluaProject/Assets/Lua/Main.lua"
+              ActivePage = "false"
+              ActivateTime = "50036500"
+              CaretLineIndex = "10"
+              CaretCodeCharIndex = "21"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "InitClass.lua"
+              Tag = "D:/Unity program/XluaProject/Assets/Lua/InitClass.lua"
+              ActivePage = "true"
+              ActivateTime = "56148695"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "-195"/>
+            <DockingCard
+              Text = "ItemData.lua"
+              Tag = "D:/Unity program/XluaProject/Assets/Lua/ItemData.lua"
+              ActivePage = "false"
+              ActivateTime = "49886577"
+              CaretLineIndex = "0"
+              CaretCodeCharIndex = "0"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "PlayerData.lua"
+              Tag = "D:/Unity program/XluaProject/Assets/Lua/PlayerData.lua"
+              ActivePage = "false"
+              ActivateTime = "49891916"
+              CaretLineIndex = "13"
+              CaretCodeCharIndex = "48"
+              BaseX = "0"
+              BaseY = "0"/>
+            <DockingCard
+              Text = "MainPanel.lua"
+              Tag = "D:/Unity program/XluaProject/Assets/Lua/MainPanel.lua"
+              ActivePage = "false"
+              ActivateTime = "50010478"
+              CaretLineIndex = "7"
+              CaretCodeCharIndex = "29"
+              BaseX = "0"
+              BaseY = "0"/>
+          </DockingBlock>
+        </DockingNode>
+        <DockingNode DockingDirection = "None">
+          <DockingBlock Width = "914" Height = "133" DocumentStyle = "false">
+            <DockingCard
+              Text = "Output"
+              Tag = ""
+              ActivePage = "true"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Call Stack"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Locals"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Globals"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Watches"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Autos"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+            <DockingCard
+              Text = "Breakpoints"
+              Tag = ""
+              ActivePage = "false"
+              ActivateTime = "0"/>
+          </DockingBlock>
+        </DockingNode>
+      </DockingNode>
+    </DockingNode>
+  </DockingControl>
+</MainWindow>
